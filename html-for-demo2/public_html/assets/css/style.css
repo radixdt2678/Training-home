@@ -44,3 +44,23 @@ table tr td{border: 1px solid;}
     line-height: 16px;
     color: #414141;}
 .tb-2 td{padding: 5px;}
+.ff-1{
+    height: 100%;
+    width: 100%;    
+}
+.had-cons1{padding: 20px 30px; width: 100%;}
+label{
+    display: inline-block;
+    width: 15%;
+    margin-bottom: 25px;
+}
+input{font-family: Arial;}
+.radio{font-family: Arial;}
+.subbtn,.rebtn{padding: 10px;background-color: #1D1D1D; color: #D1D1D1; width: 100px;font-size: 18px;font-family: 'Lato';}
+@font-face {
+    font-family: 'Lato';
+    src: url(../font/AnyConv.com__Lato-Regular.woff);
+}
+.had-con2{padding: 37px;}
+
+
